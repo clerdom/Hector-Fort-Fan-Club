@@ -32,7 +32,7 @@ Hector w jednym z wywiadów dla Fc Barcelony podzielił się z fanami swoimi pi�
 5. Jego cena na rynku transferowym to około 7.3 milona euro.
 
 
-[↩️Strona Główna](strona-glowna.md)
+[↩️Strona Główna](readme.md)
 
 
 

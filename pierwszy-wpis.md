@@ -19,5 +19,5 @@ Hector Fort udowodnił, że jest gotów do gry na najwyższym poziomie i warto o
 ![alt text](<zdjecie 7-1.jpg>)
 
 
-[↩️Strona Główna](strona-glowna.md)
+[↩️Strona Główna](readme.md)
 
